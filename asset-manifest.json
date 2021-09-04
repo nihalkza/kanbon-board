@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/kanbon-board/static/css/main.2ac9dfc0.chunk.css",
+    "main.js": "/kanbon-board/static/js/main.ea2c2ad7.chunk.js",
+    "main.js.map": "/kanbon-board/static/js/main.ea2c2ad7.chunk.js.map",
+    "runtime-main.js": "/kanbon-board/static/js/runtime-main.236854e0.js",
+    "runtime-main.js.map": "/kanbon-board/static/js/runtime-main.236854e0.js.map",
+    "stencil-h8k-logo_2-entry-js.js": "/kanbon-board/static/js/stencil-h8k-logo_2-entry-js.fbdc94a6.chunk.js",
+    "stencil-h8k-logo_2-entry-js.js.map": "/kanbon-board/static/js/stencil-h8k-logo_2-entry-js.fbdc94a6.chunk.js.map",
+    "stencil-polyfills-css-shim.js": "/kanbon-board/static/js/stencil-polyfills-css-shim.774b43a6.chunk.js",
+    "stencil-polyfills-css-shim.js.map": "/kanbon-board/static/js/stencil-polyfills-css-shim.774b43a6.chunk.js.map",
+    "static/css/4.4932a258.chunk.css": "/kanbon-board/static/css/4.4932a258.chunk.css",
+    "static/js/4.28bba418.chunk.js": "/kanbon-board/static/js/4.28bba418.chunk.js",
+    "static/js/4.28bba418.chunk.js.map": "/kanbon-board/static/js/4.28bba418.chunk.js.map",
+    "static/js/5.94dad8aa.chunk.js": "/kanbon-board/static/js/5.94dad8aa.chunk.js",
+    "static/js/5.94dad8aa.chunk.js.map": "/kanbon-board/static/js/5.94dad8aa.chunk.js.map",
+    "static/js/6.1a58e712.chunk.js": "/kanbon-board/static/js/6.1a58e712.chunk.js",
+    "static/js/6.1a58e712.chunk.js.map": "/kanbon-board/static/js/6.1a58e712.chunk.js.map",
+    "index.html": "/kanbon-board/index.html",
+    "precache-manifest.538d9e0dc35f481bee90577374d8d68b.js": "/kanbon-board/precache-manifest.538d9e0dc35f481bee90577374d8d68b.js",
+    "service-worker.js": "/kanbon-board/service-worker.js",
+    "static/css/4.4932a258.chunk.css.map": "/kanbon-board/static/css/4.4932a258.chunk.css.map",
+    "static/css/main.2ac9dfc0.chunk.css.map": "/kanbon-board/static/css/main.2ac9dfc0.chunk.css.map",
+    "static/js/4.28bba418.chunk.js.LICENSE.txt": "/kanbon-board/static/js/4.28bba418.chunk.js.LICENSE.txt",
+    "static/js/5.94dad8aa.chunk.js.LICENSE.txt": "/kanbon-board/static/js/5.94dad8aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.236854e0.js",
+    "static/css/4.4932a258.chunk.css",
+    "static/js/4.28bba418.chunk.js",
+    "static/css/main.2ac9dfc0.chunk.css",
+    "static/js/main.ea2c2ad7.chunk.js"
+  ]
+}
